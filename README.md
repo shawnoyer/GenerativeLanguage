@@ -32,7 +32,7 @@ lng: Longitude of the hotel
 
 Contents: The contents of the .ipynb file are separated into the following sections: 
 
-  Proccessing
+  Processing
   Testing Examples
   EDA
   Data Cleaning
